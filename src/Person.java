@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.util.Scanner;
 
 public class Person {
@@ -8,4 +9,5 @@ public class Person {
         String name = sc.nextLine();
         System.out.println("What is your age?");
     }
+
 }
